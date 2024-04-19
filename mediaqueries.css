@@ -1,0 +1,176 @@
+@media screen and (max-width:768px)
+{
+    
+    .contactdetails{
+        width:42vh;
+    flex-wrap: wrap;
+    }
+    .contactdetails img,.contactdetails p{
+        margin-left: 31%;
+        margin-bottom: 23px;
+    }
+    footer{
+        height:fit-content;
+        margin-bottom: 2rem;
+        flex-wrap: wrap;
+        flex-direction: column;
+        text-align: center;
+    }
+    .desktop-nav .nav-list{
+        flex-direction: column;
+        gap:15px;
+        margin-left:40%;
+        font-size: 1rem;
+        margin-top: 30%;
+    }
+    .desktop-nav a{
+        justify-content: center
+    };
+    .desktop-nav .nav-logo{
+        height:80px;
+        width:90px;
+        background-size: cover;
+    }
+    .contactdetails p{
+font-size: 1.6rem;
+    }
+    .contactdetails{
+        margin-left:0;
+    }
+    footer p{
+        flex-wrap: wrap;
+        flex-direction: column;
+    }
+    .last{
+        font-size: 0.6rem;
+    }
+    .down{
+display:none;
+}
+.c2{
+    margin-bottom: -15%;}
+    #projects .img1{
+        height:50vh;
+        margin-bottom: 23px;
+        width:50vh;
+        background-image: url("./project1.1.png");
+        border-radius:12%;
+    }
+    .img2{
+        display: none;
+    }
+.firstpro{
+    flex-wrap: wrap;
+}
+#exp{
+    margin-top:65rem;
+    flex-wrap: wrap;
+    flex-direction: column;
+    width:53vh;
+    justify-content: center;
+    
+}
+.nav-logo{
+    width:80px;
+    height: 80px;
+    margin-left: -10px;
+}
+.columns{
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+.tech{
+    flex-wrap: wrap;
+    flex-direction: row;width:48vh;
+    margin-left:3%;
+}
+.non{
+    width:48vh;
+    margin-top:23px;
+    margin-left:3%;
+    flex-wrap: wrap;
+    flex-direction: row;
+    
+}
+.tech .techni{
+align-items:center;
+    margin-left:47.9px;
+    margin-right:40px;
+}
+.tech div{
+    flex-wrap: wrap;
+    text-align: center;
+    margin-left:2px;
+}
+.non div{
+    margin-left:23px;
+    margin-top: -48%;;
+}
+#projects{
+margin-top:50vh;
+
+}
+.details{
+    flex-wrap: wrap;
+    flex-direction: column;
+    
+}
+#about{
+    margin-top:-8%;
+}
+.details .mypic{
+    height:250px;
+    width:250px;
+    margin-left:14%;
+    border-radius:50%;
+}
+.education,.experience{
+    width:18rem;
+    margin-left:31px;
+}
+#about{
+    margin-bottom:220%;
+}
+#about .para{
+    text-align: center;
+    margin-left:-35%;
+    margin-top:23px;
+}
+.hero-details p, .first-line,.second-line{
+    font-size: 1.5rem;
+    margin-left:39px;
+    margin-bottom:3%;
+}
+.hero-details #element{
+    font-size:1.5rem;
+    text-align: center;
+    margin-left:30%;
+}
+.hero-details .second-line{
+    margin-left:30%;
+}
+.hero-details .buttons{
+    margin-top:0%;
+    margin-left:34%;
+    
+}
+#hero-section .photo{
+    height:100px;
+}
+.hamburger-nav .nav-logo{
+height:100px;
+width:109px;
+}
+.hero-details .main-name{
+    font-size:2.8rem;
+}
+.menu-button{
+    display: none;
+}
+}
+@media(max-width:400px)
+{
+    .sidebar{
+        width:100%;
+    }
+}
